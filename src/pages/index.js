@@ -5,7 +5,7 @@ import Container from '@mui/material/Container'
 import Box from '@mui/material/Box'
 import Paper from '@mui/material/Paper'
 import Typography from '@mui/material/Typography'
-import ButtonLink from '../Components/ButtonLink'
+import ButtonLink from '../components/ButtonLink'
 import { createTheme, ThemeProvider } from '@mui/material/styles'
 import main_image from '../assets/Image/image_main.png'
 

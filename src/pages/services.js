@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Box from '@mui/material/Box'
 import Paper from '@mui/material/Paper'
 import Typography from '@mui/material/Typography'
-import Navbar from "../Components/Navbar"
+import Navbar from "../components/navbar"
 import image_3 from '../assets/Image/image_3.png'
 import image_4 from '../assets/Image/image_4.png'
 import image_5 from '../assets/Image/image_5.png'

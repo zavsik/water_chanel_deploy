@@ -2,7 +2,7 @@ import Container from '@mui/material/Container'
 import Box from '@mui/material/Box'
 import Paper from '@mui/material/Paper'
 import Typography from '@mui/material/Typography'
-import Navbar from "../Components/Navbar"
+import Navbar from "../components/navbar"
 
 import { createTheme, ThemeProvider } from '@mui/material/styles'
 
