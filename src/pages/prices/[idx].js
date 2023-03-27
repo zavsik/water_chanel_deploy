@@ -3,8 +3,7 @@ import Container from '@mui/material/Container'
 import Box from '@mui/material/Box'
 import Paper from '@mui/material/Paper'
 import Typography from '@mui/material/Typography'
-import ButtonLink from '../../Components/ButtonLink'
-import Navbar from "../../Components/Navbar"
+import Navbar from "../../components/navbar"
 import Button from '@mui/material/Button'
 import { useRouter } from 'next/router'
 import emailjs from '@emailjs/browser'
