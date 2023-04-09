@@ -49,7 +49,7 @@ export default function Home() {
 Нашему Абоненту теперь не нужно нести акт о поверки, мы сами внесем данные в реестр ФГИС «Аршин» и направим их в базу МосОблЕИРЦ.
                 </Typography>
                 <Box sx={{ display: 'flex', marginTop: 3 }}>
-                  <ButtonLink label='Посмотреть цены' link='/water_chanel/prices'/>
+                  <ButtonLink label='Посмотреть цены' link='/prices'/>
                 </Box>
               </Box>
               <Box >
